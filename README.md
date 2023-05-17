@@ -2,10 +2,10 @@
 This repository contains codes written in Python for implementing various reinforcement learning (RL) algorithms.
 
 **Python packages used:**
-Numpy
-Matplotlib
-PyTorch
-OpenAI Gym
+Numpy 
+Matplotlib 
+PyTorch 
+OpenAI Gym 
 
 **Reinforcement learning algorithms:**
 Q-learning
