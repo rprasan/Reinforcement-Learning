@@ -8,6 +8,7 @@ PyTorch <br />
 OpenAI Gym <br />
 
 **Reinforcement learning algorithms:** <br />
+Value-based algorithms <br />
 Q-learning <br />
 Deep Q networks (DQN) <br />
 Cross-entropy method with adaptive exploration <br />
