@@ -1,9 +1,11 @@
 ## Algorithms
-**The algorithms included in these codes are:** <br />
+**Value-based algorithms:** <br />
 Value-iteration <br />
 ![](https://github.com/rprasan/Reinforcement-Learning/blob/main/Value-based%20algorithms/Videos%20of%20Results/Value%20Iteration.gif) <br /><br />
 Policy iteration <br />
-![](https://github.com/rprasan/Reinforcement-Learning/blob/main/Value-based%20algorithms/Videos%20of%20Results/Policy%20Iteration.gif) <br /><br />
+![](https://github.com/rprasan/Reinforcement-Learning/blob/main/Value-based%20algorithms/Videos%20of%20Results/Policy%20Iteration.gif) <br /><br /><br />
+
+**Sample-based approximations of value-based algorithms for reinforcement learning:** <br />
 On-policy first-visit MC control <br />
 Environment 1: <br />
 ![](https://github.com/rprasan/Reinforcement-Learning/blob/main/Value-based%20algorithms/Videos%20of%20Results/MC%20Control%20-%201.gif) <br />
