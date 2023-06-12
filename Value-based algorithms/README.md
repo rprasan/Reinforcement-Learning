@@ -29,4 +29,4 @@ Environment 1: <br />
 ![](https://github.com/rprasan/Reinforcement-Learning/blob/main/Value-based%20algorithms/Videos%20of%20Results/Double%20Q%20Learning%20-%201.2.gif) <br />
 Environment 2: <br />
 ![](https://github.com/rprasan/Reinforcement-Learning/blob/main/Value-based%20algorithms/Videos%20of%20Results/Double%20Q%20Learning%20-%202.1.gif) <br />
-![]() <br /><br />
+![](https://github.com/rprasan/Reinforcement-Learning/blob/main/Value-based%20algorithms/Videos%20of%20Results/Double%20Q%20Learning%20-%202.2.gif) <br /><br />
