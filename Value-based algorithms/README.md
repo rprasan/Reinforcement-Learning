@@ -1,4 +1,4 @@
-# Algorithms
+## Algorithms
 **The algorithms included in these codes are:** <br />
 Value-iteration <br />
 ![](https://github.com/rprasan/Reinforcement-Learning/blob/main/Value-based%20algorithms/Videos%20of%20Results/Value%20Iteration.gif) <br /><br />
