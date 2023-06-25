@@ -1,7 +1,5 @@
 ## Environment
-We have a frogger-like environment in which the agent is expected to safely cross a busy highway to reach the other side. The agent is initially positioned randomly on one side <br />
-of the highway and can execute three discrete actions to reach the other side: 'stand still', 'move up', and 'move down'. The environment's state is represented as LiDAR scan <br />
-observations that have a vector length of 60.
+We have a frogger-like environment in which the agent is expected to cross a busy highway to reach the other side safely. The agent is initially positioned randomly on one side of the highway and can execute three discrete actions to reach the other side: 'stand still', 'move up', and 'move down'. The environment's state is represented as LiDAR scan observations that have a vector length of 60.
 
 ## Algorithms
 **Deep Q Learning (DQN):** <br />
