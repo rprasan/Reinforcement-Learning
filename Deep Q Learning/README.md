@@ -8,6 +8,9 @@ In the environment's second version, the highway traffic is bidirectional, and t
 ## Algorithms
 **Deep Q Learning (DQN):** <br />
 Environment 1: <br />
+![](https://github.com/rprasan/Reinforcement-Learning/blob/main/Deep%20Q%20Learning/Results/Environment%201/Seed%206/Mean%20Training%20Reward%20For%20Last%20100%20Episodes.png) <br />
+![](https://github.com/rprasan/Reinforcement-Learning/blob/main/Deep%20Q%20Learning/Results/Environment%201/Seed%206/TimeStepEpisode.png) <br />
+![](https://github.com/rprasan/Reinforcement-Learning/blob/main/Deep%20Q%20Learning/Results/Environment%201/Seed%206/Average%20Evaluation%20Score%20Over%20Last%20100%20Roll%20Outs.png) <br />
 ![](https://github.com/rprasan/Reinforcement-Learning/blob/main/Deep%20Q%20Learning/Results/Environment%201/Seed%206/Average%20Evaluation%20Score%20Over%20All%20Roll%20Outs.png) <br /><br />
 
 **Double Deep Q Learning (Double DQN):** <br />
