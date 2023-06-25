@@ -7,10 +7,9 @@ In the environment's second version, the highway traffic is bidirectional, and t
 
 ## Algorithms
 **Deep Q Learning (DQN):** <br />
-Environment 1 <br />
-![](https://github.com/rprasan/Reinforcement-Learning/blob/main/Value-based%20algorithms/Videos%20of%20Results/Value%20Iteration.gif) <br /><br /><br />
+Environment 1: <br />
+![](https://github.com/rprasan/Reinforcement-Learning/blob/main/Value-based%20algorithms/Videos%20of%20Results/Value%20Iteration.gif) <br /><br />
 
 **Double Deep Q Learning (Double DQN):** <br />
-Environment 2 <br />
-Environment 1: <br />
+Environment 2: <br />
 ![](https://github.com/rprasan/Reinforcement-Learning/blob/main/Value-based%20algorithms/Videos%20of%20Results/MC%20Control%20-%201.gif) <br />
