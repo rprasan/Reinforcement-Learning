@@ -7,13 +7,14 @@ The second environment is 'LunarLanderContinuous-v2' from OpenAI gym, in which a
 
 ## Algorithms
 Two black-box techniques will be employed to solve the above two environments by means of direct policy optimization: <br /><br />
-**Cross-Entropy Method (CEM) [Salimas et al, 2017](https://arxiv.org/pdf/1703.03864.pdf):** <br />
+**Cross-Entropy Method (CEM):** <br />
 Environment 1: <br />
 ![](https://github.com/rprasan/Reinforcement-Learning/blob/main/Blackbox%20Optimization%20Techniques/Environment%201/Seed%201/Average%20Reward%20Versus%20Number%20of%20Iterations.png) <br />
 ![](https://github.com/rprasan/Reinforcement-Learning/blob/main/Blackbox%20Optimization%20Techniques/Environment%201/Seed%201/Average%20Reward%20Versus%20Number%20of%20Steps.png) <br />
 ![](https://github.com/rprasan/Reinforcement-Learning/blob/main/Blackbox%20Optimization%20Techniques/Environment%201/Seed%201/Number%20of%20Steps%20Versus%20Number%20of%20Iterations.png) <br />
 ![](https://github.com/rprasan/Reinforcement-Learning/blob/main/Blackbox%20Optimization%20Techniques/Environment%201/Seed%201/Test%20Video.gif) <br /><br />
 
+**Evolution Strategies [Salimas et al, 2017](https://arxiv.org/pdf/1703.03864.pdf):** <br />
 Environment 2: <br />
 ![](https://github.com/rprasan/Reinforcement-Learning/blob/main/Blackbox%20Optimization%20Techniques/Environment%202/Seed%201/Average%20Reward%20Versus%20Number%20of%20Iterations.png) <br />
 ![](https://github.com/rprasan/Reinforcement-Learning/blob/main/Blackbox%20Optimization%20Techniques/Environment%202/Seed%201/Average%20Reward%20Versus%20Number%20of%20Steps.png) <br />
