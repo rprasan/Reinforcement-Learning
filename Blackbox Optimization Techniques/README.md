@@ -1,5 +1,5 @@
 ## Environment
-We use the following environments to demonstrate how black-box techniques can directly optimize an agent's policies: <br />
+We use the following environments to demonstrate how black-box techniques can directly optimize an agent's policies: <br /><br />
 Environment 1: <br />
 The first environment has a frogger-like agent that navigates to a fixed goal on a static highway map.
 Environment 1: <br />
