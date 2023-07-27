@@ -6,9 +6,8 @@ Environment 2: <br />
 The second environment is 'LunarLanderContinuous-v2' from OpenAI gym, in which a spaceship-like agent navigates to its landing pad by controlling its main central engine and its two side engines. The agent's observation of the environment's state is represented as a vector comprising the agent's position, velocity, orientation, angular speed, and two Booleans indicating if its two legs are in contact with the ground. <br />
 
 ## Algorithms
-Two black-box techniques will be employed to solve the above two environments by means of direct policy optimization
-
-
+Two black-box techniques will be employed to solve the above two environments by means of direct policy optimization: <br /><br />
+**Cross-Entropy Method (CEM) [Salimas et al, 2017](https://arxiv.org/pdf/1703.03864.pdf):** <br />
 Environment 1: <br />
 ![](https://github.com/rprasan/Reinforcement-Learning/blob/main/Blackbox%20Optimization%20Techniques/Environment%201/Seed%201/Average%20Reward%20Versus%20Number%20of%20Iterations.png) <br />
 ![](https://github.com/rprasan/Reinforcement-Learning/blob/main/Blackbox%20Optimization%20Techniques/Environment%201/Seed%201/Average%20Reward%20Versus%20Number%20of%20Steps.png) <br />
