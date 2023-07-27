@@ -3,7 +3,7 @@ We use the following environments to demonstrate how black-box techniques can di
 Environment 1: <br />
 The first environment has a frogger-like agent that navigates to a fixed goal on a static highway map by executing four discrete actions: 'move up', 'move down', 'move left', and 'move right'. The agent's observation of the environment's state is represented as a vector comprising the agent's position, the goal position, and the unit vector pointing from the former to the latter. <br /><br />
 Environment 2: <br />
-The second environment is [LunarLanderContinuous-v2](https://gymnasium.farama.org/) from OpenAI gym, in which a spaceship-like agent navigates to its landing pad by controlling its main central engine and its two side engines. The agent's observation of the environment's state is represented as a vector comprising the agent's position, velocity, orientation, angular speed, and two Booleans indicating if its two legs are in contact with the ground. <br />
+The second environment is 'LunarLanderContinuous-v2' from OpenAI gym, in which a spaceship-like agent navigates to its landing pad by controlling its main central engine and its two side engines. The agent's observation of the environment's state is represented as a vector comprising the agent's position, velocity, orientation, angular speed, and two Booleans indicating if its two legs are in contact with the ground. <br />
 
 ## Algorithms
 Two black-box techniques will be employed to solve the above two environments by means of direct policy optimization
