@@ -1,8 +1,8 @@
 ## Environment
 We use the following environments to demonstrate how black-box techniques can directly optimize an agent's policies: <br /><br />
 Environment 1: <br />
-The first environment has a frogger-like agent that navigates to a fixed goal on a static highway map.
-Environment 1: <br />
+The first environment has a frogger-like agent that navigates to a fixed goal on a static highway map. <br /><br />
+Environment 2: <br />
 The second environment is LunarLanderContinuous-v2 from OpenAI gym, in which a spaceship-like agent navigates to its landing pad by controlling its main central engine and its two side engines. <br />
 
 Environment 1: <br />
